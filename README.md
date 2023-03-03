@@ -1,4 +1,4 @@
-# Hybrid-modeling
+# Hybrid modeling
 This repository presents the proposed modeling codes for generating specific pore structure models. 
 The Process_based.m is used to generate the grain packing model, which can be used as the initial input model. 
 For example, the T1001.mat contains the three-dimensional coordinate position of grains. 
